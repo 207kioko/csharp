@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\sam\bin\Debug\net6.0\sam.exe
+C:\Users\user\Desktop\sam\bin\Debug\net6.0\sam.deps.json
+C:\Users\user\Desktop\sam\bin\Debug\net6.0\sam.runtimeconfig.json
+C:\Users\user\Desktop\sam\bin\Debug\net6.0\sam.dll
+C:\Users\user\Desktop\sam\bin\Debug\net6.0\sam.pdb
+C:\Users\user\Desktop\sam\obj\Debug\net6.0\sam.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\sam\obj\Debug\net6.0\sam.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\sam\obj\Debug\net6.0\sam.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\sam\obj\Debug\net6.0\sam.AssemblyInfo.cs
+C:\Users\user\Desktop\sam\obj\Debug\net6.0\sam.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\sam\obj\Debug\net6.0\sam.dll
+C:\Users\user\Desktop\sam\obj\Debug\net6.0\refint\sam.dll
+C:\Users\user\Desktop\sam\obj\Debug\net6.0\sam.pdb
+C:\Users\user\Desktop\sam\obj\Debug\net6.0\sam.genruntimeconfig.cache
+C:\Users\user\Desktop\sam\obj\Debug\net6.0\ref\sam.dll
